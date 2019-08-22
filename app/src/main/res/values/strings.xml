@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RumahAdat</string>
+    <string name="list_title">Nama Rumah</string>
+    <string name="list_subtitle">Daerah</string>
+</resources>
